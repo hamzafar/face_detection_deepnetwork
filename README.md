@@ -3,3 +3,6 @@ This repo cotanis py_code to detect face from the images using deep neural netwo
 
 Process flow:
 
+
+Keras tutorial for deep learning
+https://elitedatascience.com/keras-tutorial-deep-learning-in-python
