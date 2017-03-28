@@ -1,6 +1,11 @@
 # Deeplearning/GPU programming
 
-This repo cotanis py_code to detect face from the images using deep neural network
+This repos contains as follows:
+1. Tensorflow 
+2. Graph programming
+3. Keras
+4. deeplearning test run
+
 
 Process flow:
 
