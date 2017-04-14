@@ -9,9 +9,3 @@ This repos contains as follows:
 
 Process flow:
 
-
-Keras tutorial for deep learning
-https://elitedatascience.com/keras-tutorial-deep-learning-in-python
-
-follow this tutorial
-https://dsotb.quora.com/Deep-learning-with-Keras-simple-image-classification#WobCA
