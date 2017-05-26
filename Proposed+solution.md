@@ -5,7 +5,7 @@ The typical computation process is sequential i.e. task are assigned in queues a
 
 **CPU approach:**
 
-<img src='https://github.com/hamzafar/GPU_Computation/blob/master/images/sequential%20programming.PNG?raw=true' width="400" height="400">
+<img src='https://github.com/hamzafar/GPU_Computation/blob/master/images/sequential%20programming.PNG?raw=true' width="600" height="600">
 
 
 **GPU approach:**
