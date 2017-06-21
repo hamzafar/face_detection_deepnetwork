@@ -6,7 +6,7 @@ This repos is about hand on experience on GPU programming and the following are 
 3. Control programming
 
 
-**(Forcing Cpu or Gpu)[https://github.com/hamzafar/GPU_Computation/blob/master/Using%20Gpu-Cpu.ipynb]**
+**[Forcing Cpu or Gpu](https://github.com/hamzafar/GPU_Computation/blob/master/Using%20Gpu-Cpu.ipynb)**
 
 Process flow:
 
