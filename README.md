@@ -6,6 +6,7 @@ This repos contains as follows:
 3. Control programming
 4. Cuda
 
+*1*
 
 Process flow:
 
